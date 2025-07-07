@@ -9,4 +9,4 @@
 This implementation is based on / inspired by:
 
 - [https://github.com/w86763777/pytorch-ddpm](https://github.com/w86763777/pytorch-ddpm) 
-- [https://github.com/crowsonkb/k-diffusion/blob/master/train.py](https://github.com/crowsonkb/k-diffusion/blob/master/train.py) (we refer to the implementation of ADA augmentation in K-diffusion model)](https://github.com/qym7/CBDM-pytorch.git).
+- [https://github.com/qym7/CBDM-pytorch](https://github.com/qym7/CBDM-pytorch.git)
