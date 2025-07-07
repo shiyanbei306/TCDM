@@ -5,7 +5,7 @@
  ``` python main.py --flagfile ./logs/cifar100lt_cbdm_c100/flagfile.txt --logdir ./logs/cifar100lt_cbdm_c100 --fid_cache ./stats/cifar10.train.npz  --ckpt_step 300000 --num_images 50000 --batch_size 64 --notrain --eval --sample_method cfg  --omega 1.4 --sample_type DDPM ```
 
 ### Calculating FID
-Please refer to [README.md](./evaluations/README.md) for the full instructions
+Please refer to [https://github.com/forever208/ADM-ES/blob/ADM-ES/evaluations/README.md] for the full instructions
 
 ## Acknowledgements
 
