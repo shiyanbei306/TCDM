@@ -1,6 +1,6 @@
 # TCDM
 
-## Download models
+### Download models
 Here are the download links for each model checkpoint:
 * CIFAR100LT 32x32: [TCDM.pt](https://drive.google.com/drive/folders/1Gt8prL4cloPbQrY6XHKhZgxOxKVcwAds?dmr=1&ec=wgc-drive-globalnav-goto)
 
@@ -11,7 +11,7 @@ Here are the download links for each model checkpoint:
 ### Calculating FID
 Please refer to [FID](https://github.com/forever208/ADM-ES/blob/ADM-ES/evaluations/README.md) for the full instructions
 
-## Acknowledgements
+### Acknowledgements
 
 This implementation is based on / inspired by:
 
